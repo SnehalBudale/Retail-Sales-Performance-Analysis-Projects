@@ -32,10 +32,15 @@ Business Insight Generation
 ## Data Description
 
 The datasets include transactional sales data such as:
+
 Transaction date and order details.
+
 Product and category information.
+
 Sales quantity and revenue values.
+
 Customer-level attributes (where available).
+
 Each dataset was analyzed independently and then interpreted collectively to derive consistent performance insights.
 
 ## Methodology & Technical Approach
@@ -43,10 +48,12 @@ Each dataset was analyzed independently and then interpreted collectively to der
 
 Ensured reporting accuracy by validating and preparing raw datasets.
 
-Key steps:
+### Key steps:
 
 Removed duplicates and handled missing values.
+
 Standardized column names and data types.
+
 Verified revenue and quantity calculations.
 
 ### Exploratory Data Analysis (EDA)
@@ -54,29 +61,39 @@ Verified revenue and quantity calculations.
 Analyzed trends and distributions to understand performance drivers:
 
 Revenue and sales trends over time.
+
 Product and category-level performance.
+
 Customer purchase frequency and behavior.
 
 
 ### Performance & Financial Analysis
 
 Evaluated revenue contribution by product and category.
+
 Identified top-performing products and seasonal demand spikes.
+
 Analyzed sales variability during festive (Diwali) periods.
 
 
 ### Reporting & Visualization
 
 Insights were translated into clear, decision-oriented reports.
+
 Trend and comparison charts using Python and Excel.
+
 Pivot tables for product and category performance.
+
 Structured summaries for management-level review.
 
 
 ### Key Business Insights
 
 A small set of products contributed a significant portion of total revenue.
+
 Clear seasonality was observed, with sales spikes during festive periods.
+
 Customer purchase behavior highlighted opportunities for targeted promotions.
+
 Clean and validated data significantly improved reliability of insights.
 

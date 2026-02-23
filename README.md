@@ -1,99 +1,99 @@
-# Retail & Sales Performance Analysis
+# Retail Sales Analysis (Excel)
+
 ## Overview
 
-This project consolidates multiple retail and sales analyses (coffee shop sales, general store sales, and seasonal Diwali sales) to evaluate business performance, revenue trends, product contribution, and customer behavior. The focus is on accurate data handling, structured analysis, and performance reporting, closely mirroring real-world analytics workflows used in finance and investment organizations.
+This repository contains Excel-based business dashboards built to analyze retail performance across different domains. The project focuses on extracting actionable insights from sales data using advanced Excel features.
 
- ## Business Objectives
+It includes:
 
-Monitor sales and revenue performance across products and categories.
-Identify top-performing and underperforming products.
-Analyze customer purchasing behavior and seasonal trends.
-Ensure data accuracy and reporting consistency.
-Generate insights to support performance monitoring and business decisions.
+1. Vrinda Store Annual Performance Dashboard (E-commerce/Retail)
+2. Coffee Shop Sales Analysis Dashboard
 
-## Tools & Technologies
+The goal of this project is to demonstrate data analysis, dashboard design, and business insight generation using Microsoft Excel.
 
-Python: Pandas, NumPy, Matplotlib
-Microsoft Excel: Pivot Tables, Lookups, Charts
+---
 
+## Tools & Skills Used
 
-## Skills Demonstrated
+* Microsoft Excel
+* Pivot Tables & Pivot Charts
+* Slicers & Interactive Filters
+* Data Cleaning & Formatting
+* KPI Creation
+* Business Analysis & Insight Generation
+* Dashboard Design & Data Visualization
 
-Performance & Trend Analysis
+---
 
-Data Validation & Accuracy Checks
+## Project 1: Vrinda Store Analysis
 
-Financial & Sales Analytics
+### Objective
 
-Reporting & Visualization
+To analyze annual sales performance and understand customer behavior across different dimensions.
 
-Business Insight Generation
+### Key Insights
 
-## Data Description
+* Identified top-performing states contributing the highest revenue.
+* Analyzed sales distribution by gender and age group.
+* Evaluated order performance across multiple channels (Amazon, Flipkart, Myntra, etc.).
+* Tracked monthly sales trends and order volume.
+* Monitored order status including delivered, returned, and cancelled.
 
-The datasets include transactional sales data such as:
+### Dashboard Features
 
-Transaction date and order details.
+* Interactive slicers for Month, Category, and Channel
+* Sales vs Orders trend analysis
+* Customer demographic insights
+* Channel-wise and state-wise performance
 
-Product and category information.
+---
 
-Sales quantity and revenue values.
+## Project 2: Coffee Shop Sales Analysis
 
-Customer-level attributes (where available).
+### Objective
 
-Each dataset was analyzed independently and then interpreted collectively to derive consistent performance insights.
+To analyze sales performance, customer footfall, and product demand for a coffee retail business.
 
-## Methodology & Technical Approach
-### Data Cleaning & Validation
+### Key Insights
 
-Ensured reporting accuracy by validating and preparing raw datasets.
+* Identified peak business hours and high-traffic weekdays.
+* Analyzed category-wise sales distribution.
+* Determined top-performing products.
+* Compared performance across store locations.
+* Evaluated order size distribution and customer behavior.
 
-### Key steps:
+### Dashboard Features
 
-Removed duplicates and handled missing values.
+* KPI cards (Sales, Footfall, Avg Bill, Avg Orders per Customer)
+* Hourly sales trend analysis
+* Product and category performance
+* Location-wise footfall comparison
+* Interactive filters for Month and Day
 
-Standardized column names and data types.
+---
 
-Verified revenue and quantity calculations.
+## Business Value
 
-### Exploratory Data Analysis (EDA)
+* Helps identify high-performing products, locations, and channels
+* Supports data-driven decision-making
+* Improves inventory, staffing, and marketing planning
 
-Analyzed trends and distributions to understand performance drivers:
+---
 
-Revenue and sales trends over time.
+## Repository Structure
 
-Product and category-level performance.
+```
+Retail-Analysis/
+│
+├── Vrinda_Store_Dashboard.xlsx
+├── Coffee_Shop_Analysis.xlsx
+└── README.md
+```
 
-Customer purchase frequency and behavior.
+---
 
+## Author
 
-### Performance & Financial Analysis
-
-Evaluated revenue contribution by product and category.
-
-Identified top-performing products and seasonal demand spikes.
-
-Analyzed sales variability during festive (Diwali) periods.
-
-
-### Reporting & Visualization
-
-Insights were translated into clear, decision-oriented reports.
-
-Trend and comparison charts using Python and Excel.
-
-Pivot tables for product and category performance.
-
-Structured summaries for management-level review.
-
-
-### Key Business Insights
-
-A small set of products contributed a significant portion of total revenue.
-
-Clear seasonality was observed, with sales spikes during festive periods.
-
-Customer purchase behavior highlighted opportunities for targeted promotions.
-
-Clean and validated data significantly improved reliability of insights.
-
+Snehal
+Aspiring Business Analyst | Product Management Enthusiast
+Skills: Excel | Data Analysis | Dashboarding | Business Insights
